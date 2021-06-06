@@ -17,7 +17,7 @@ Link: https://diabetes26.herokuapp.com/
 
 Overview
 
-This is a simple Flask web app which predicts whether a patient is having diabetes or not.
+This is a simple Flask web app which predicts whether a patient is diabetic or not.
 
 Motivation
 
